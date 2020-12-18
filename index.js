@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+//myFunction is the parent function of nestedFunction which allows nestedFunction to access its data;
 
 
 
